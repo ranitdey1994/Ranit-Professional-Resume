@@ -438,6 +438,7 @@ h3.w3l_head.three {
 p.w3ls_head_para {
     color: #44c7f4;
     text-align: center;
+	text-transform: uppercase;
     letter-spacing: 7px;
 }
 .w3l-grids-about {
